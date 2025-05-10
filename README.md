@@ -13,4 +13,4 @@ Build a program that generates a random number and challenges the user to guess 
 1. Ensure Python 3.x is installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/mani-vvit2006/task-2/blob/41829629c374cff4306d8de9111d866182b83bcf/number_guessing_game.py
+   git clone https://github.com/mani-vvit2006/task-2
