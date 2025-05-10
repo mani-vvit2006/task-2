@@ -13,4 +13,4 @@ Build a program that generates a random number and challenges the user to guess 
 1. Ensure Python 3.x is installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/manvith-kumar/SCT_SD_2.git
+   git clone 
